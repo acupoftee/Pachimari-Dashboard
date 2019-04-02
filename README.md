@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/Spray_Pachimari.png" height="250">
+    <img src="images/Spray_Pachimari.png" height="350">
 </p>
 
 # Pachimari Bot Dashboard

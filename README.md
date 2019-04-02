@@ -19,6 +19,12 @@ Each page includes command names, descriptions, and usage instructions.
 *   Each command starts with a prefix (the default prefix is `!`). 
 *   Required arguments are surrounded by `< >`. For example, to view a specific Overwatch League team, the instructions will say to use `!team <teamname>`.
 *   Optional arguments are surrounded by `[]`.  For example, to view all social media links for a specific Overwatch League team, the instructions will say to use `!team <teamname> [accounts]`. The command can still be used normally without the optional arguments.
+  
+
+ <img src="images/pachibleppi.gif" height="350">
+ 
+ *Thanks for visiting!*
+
 
 ## Disclaimer
 Pachimari Bot isn’t endorsed or in any way affiliated with Blizzard Entertainment and doesn’t reflect the views or opinions of Blizzard Entertainment or anyone officially involved in producing or managing Overwatch. Overwatch, Pachimari, and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries. All submitted art content remains copyright of its original copyright holder.

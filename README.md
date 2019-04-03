@@ -25,6 +25,5 @@ Each page includes command names, descriptions, and usage instructions.
  
  *Thanks for visiting!*
 
-
 ## Disclaimer
 Pachimari Bot isn’t endorsed or in any way affiliated with Blizzard Entertainment and doesn’t reflect the views or opinions of Blizzard Entertainment or anyone officially involved in producing or managing Overwatch. Overwatch, Pachimari, and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries. All submitted art content remains copyright of its original copyright holder.
